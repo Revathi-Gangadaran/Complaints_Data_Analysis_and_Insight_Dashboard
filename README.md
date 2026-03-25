@@ -1,4 +1,4 @@
-# Restaurant Reviews
+# COMPLAINTS DATA ANALYSIS & INSIGHT DASHBOARD PROJECT 
 
 ## Project Overview
 This repository contains a Power BI dashboard for analyzing Indohub restaurant reviews from January'2023 to April'2023. The dashboard provides insights from customer feedback, ratings, and trends over time. The dataset includes reviews and customer information stored in a two different text document file. Data cleaning and transformation were performed using Power Query Editor, and visualizations were created using Power BI. 
